@@ -1,0 +1,7 @@
+h2{
+    color:cyan;
+}
+#layout{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
